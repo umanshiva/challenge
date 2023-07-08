@@ -6,4 +6,4 @@
 
 **_Step 3 :_** Decode the cipher by applying  vignere encode, from base 85, atbash cipher, vignere encode in sequence in cyberchef
 
-**_Step 4 :_** To obtain the key for vignere decode apply _stegsnow_ tool to the extracted file.
+**_Step 4 :_** To obtain the key for vignere encode apply _stegsnow_ tool to the extracted file.
